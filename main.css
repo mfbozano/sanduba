@@ -1,0 +1,135 @@
+h1,h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: mediumpurple;
+    color: cyan;
+    text-shadow: 2px 5px rgb(32, 14, 148);
+    padding: 1%;
+}
+body{
+    background-color: lightpink;
+}
+mark{
+    background-color: red;
+    color: white;
+}
+p{
+    background-color: rgb(8, 241, 222);
+    font-family: unset;
+    font-size: 23px;
+    padding: 1%;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2%;
+    border-color: navy; 
+}
+#gif1{
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+}
+#sanduba{
+    display: block;
+    margin: auto;
+}
+.lista{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    display: block;
+    padding: 3%;
+    
+}
+#presuntin{
+    display: block;
+    margin: 2%;
+    widows: auto;
+}
+#flango{
+    display: block;
+    margin: 2%;
+    widows: auto;
+}
+#vegano{
+    display: block;
+    margin: 2%;
+    widows: auto;
+}
+#bk{
+    display: block;
+    margin: 2%;
+    widows: auto;
+}
+#sanduba1{
+    background-color: darkslateblue;
+    padding: 1%;
+    color: cyan;
+    text-shadow: 2px 2px black;
+    margin: 2%;
+}
+#sanduba2{
+    background-color: darkslateblue;
+    padding: 1%;
+    color: cyan;
+    text-shadow: 2px 2px black;
+    margin: 2%;
+}
+#sanduba3{
+    background-color: darkslateblue;
+    padding: 1%;
+    color: cyan;
+    text-shadow: 2px 2px black;
+    margin: 2%;
+}
+#sanduba4{
+    background-color: darkslateblue;
+    padding: 1%;
+    color: cyan;
+    text-shadow: 2px 2px black;
+    margin: 2%;
+}
+#tutorial{
+    margin-bottom: 8%;
+}
+#intro{
+    background: none;
+    border: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.tut{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+}
+#nu1,#nu2,#nu3,#nu4{
+    font: fantasy;
+    font-size: 20px;
+    padding: 0,5%;
+    margin-bottom: 2%;
+}
+#n1,#n2,#n3,#n4{
+    font-family: cursive;
+    font-size: 25px;
+}
+a:active{
+    color: chartreuse;
+}
+a:hover{
+    color: coral;
+}
+a:link{
+    color: blueviolet;
+}
+a:visited{
+    color: rgb(221, 109, 109);
+}
+#foto1{
+    display: block;
+    margin: auto;
+}
+#como{
+    text-align: center;
+}
